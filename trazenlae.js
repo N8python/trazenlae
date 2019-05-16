@@ -1,4 +1,4 @@
- async function Translatr(jsonlink){
+ async function Trazenlae(jsonlink){
   const response = await fetch(jsonlink);
   const json = await response.json();
   return {
