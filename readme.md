@@ -13,6 +13,7 @@ The JSON file has the following format:
   }
 }
 ```
+# Use
 Now, you can load the JSON file into Trazenlae via:
 ```js
 const myTrazen = await Trazenlae("YOUR_JSON_PATH_HERE.json");
