@@ -20,7 +20,7 @@ const myTrazen = await Trazenlae("YOUR_JSON_PATH_HERE.json");
 ```
 Make sure your declaration is inside an async function!
 Now, you can translate the page into one langauge or another with:
-```
+```js
 myTrazen.langify("es") // Translate to english
 myTrazen.langify("en") // Translate to spanish
 ```
