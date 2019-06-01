@@ -1,4 +1,4 @@
-To start, download trazenlae. trazenlae declares the async function ``Trazenlae` for use. 
+To start, download trazenlae. trazenlae declares the async function `Trazenlae` for use. 
 
 # Config
 Trazenlae dosen't actually do the translation for you. You have to make a JSON file, with seperate translations for each language. 
